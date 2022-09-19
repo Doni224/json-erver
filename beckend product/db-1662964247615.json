@@ -1,0 +1,32 @@
+{
+  "best-products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Paket wisata bali",
+      "is_ready": "true",
+      "gambar": "bali.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "paket wisata dieng",
+      "is_ready": "true",
+      "gambar": "dieng.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "paket wisata jakarta",
+      "is_ready": "true",
+      "gambar": "jakarta.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "paket wisata jogjakarta",
+      "is_ready": "true",
+      "gambar": "jogja.jpg"
+    }
+  ]
+}
